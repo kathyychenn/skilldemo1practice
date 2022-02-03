@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/kathychen/Documents/GitHub/markdown-parse/lib/hamcrest-core-1.3.jar",
+        "/Users/kathychen/Documents/GitHub/markdown-parse/lib/junit-4.13.2.jar"
+    ]
+}
